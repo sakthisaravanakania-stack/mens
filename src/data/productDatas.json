@@ -1,0 +1,148 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Cyberpunk Neon Black Tee",
+        "price": 500,
+        "category": "Cyberpunk",
+        "image": "pic1.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.7,
+          "count": 154
+        }
+      },
+      {
+        "id": 2,
+        "title": "Japanese Anime Culture Tee",
+        "price": 320,
+        "category": "Anime",
+        "image": "pic2.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 3.5,
+          "count": 89
+        }
+      },
+      {
+        "id": 3,
+        "title": "Geometric Line Art Navy Tee",
+        "price": 570,
+        "category": "Minimalist",
+        "image": "pic3.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.2,
+          "count": 276
+        }
+      },
+      {
+        "id": 4,
+        "title": "Peak Adventure Mountain Badge Tee",
+        "price": 220,
+        "category": "Vintage",
+        "image": "/pic4.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 2.8,
+          "count": 47
+        }
+      },
+      {
+        "id": 5,
+        "title": "Bold Typographic Maroon Tee",
+        "price": 4320,
+        "category": " Street Culture",
+        "image": "/pic5.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.9,
+          "count": 632
+        }
+      },
+      {
+        "id": 6,
+        "title": "Urban Chaos Grunge Tee",
+        "price": 1310,
+        "category": " Grunge",
+        "image": "/pic6.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 3.9,
+          "count": 118
+        }
+      },
+      {
+        "id": 7,
+        "title": "Botanical Floral Cream Tee",
+        "price": 3100,
+        "category": "Nature",
+        "image": "/pic7.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.4,
+          "count": 205
+        }
+      },
+      {
+        "id": 8,
+        "title": "80s Synthwave Retro Car Tee",
+        "price":435,
+        "category": "Synthwave",
+        "image": "/pic8.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 2.6,
+          "count": 39
+        }
+      },
+      {
+        "id": 9,
+        "title": "Essential Wardrobe Lavender Tee",
+        "price": 750,
+        "category": "Pastel Minimal",
+        "image": "/pic9.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.1,
+          "count": 321
+        }
+      },
+      {
+        "id": 10,
+        "title": "Explore Deep Space Retro Tee",
+        "price": 1000,
+        "category": "Retro Space Graphic",
+        "image": "/pic10.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 3.7,
+          "count": 142
+        }
+      },
+      {
+        "id": 11,
+        "title": "Mortal Coil Skull & Snake Tee",
+        "price": 2100,
+        "category": "Alternative Edgy",
+        "image": "/pic11.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 4.8,
+          "count": 517
+        }
+      },
+      {
+        "id": 12,
+        "title": "Roaring Tiger Streetwear Tee",
+        "price": 1200,
+        "category": "Wildlife",
+        "image": "/pic12.jpeg",
+        "status": false,
+        "rating": {
+          "rate": 3.2,
+          "count": 74
+        }
+      }
+    ]
+  }
